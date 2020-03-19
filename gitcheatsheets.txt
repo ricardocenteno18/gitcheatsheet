@@ -1,0 +1,57 @@
+		"Git´s Fundaments"
+
+-git init: This create a new subdirectory called .git, wich contain all the necessary files from the repository.
+
+-git config: Is used to open all the git configurations.
+
+-git config --global user.name: To sing up in your GitHub Account
+-git config --global user.email:
+
+-git add: is used to declare which file you want to modify.
+
+-git commit -m: We used to confirm the changes that we did in a file.
+
+-git clone: to get a copy of an existig repository.
+
+-git status: To know the status of some files.
+
+-git diff: To compare the working directoy with the preparation area.
+
+-git mv: To change the name file.
+
+-git log: To show all the modification that we already did.
+
+-git log --stat: Make a summary of some statistics of each confirmation.
+
+-git log --pretty: To modify rhe output format.
+
+-git log --name-status: To show the list of modified files.
+
+-git log --name-only: Diplay the list of the modified files.
+
+-git log --graph: Displays an ASCII chart with branch and junction history.
+
+-git remote: It will show the names of each of the remotes you have specified.
+
+-git push origin master: To send a project to a Git server.
+
+
+		
+		
+		"Git Ramification"
+	
+-What is a Branch? It is simply a mobile pointer pointing to one of those confirmations.
+
+-How to create a Branch? When you create a branch a new pointer is created so you can move it freely.
+
+-git checkout: Is used to jumpto another branch.
+
+-git checkout -b: To create a new branch and jump it to it.
+
+-git branch: To get a list of the branches present in your project.
+
+-git branch -b: To delete a branch.
+
+-git branch -v: Show us the last modofications confirmated.
+
+-git branch --merged: Show only those that have been marged.
